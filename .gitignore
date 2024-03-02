@@ -1,2 +1,5 @@
 *.html
 *.pdf
+*.R
+*.csv
+*tutorial*
